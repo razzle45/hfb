@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Houston Food Bank</title>
+    <link>https://cello-sphere-jrap.squarespace.com</link>
+    <pubDate>Fri, 17 Jul 2020 04:47:40 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-391244446</wp:author_id>
+      <wp:author_login>ryanrassoli77@gmail.com</wp:author_login>
+      <wp:author_email>ryanrassoli77@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ryan Rassoli]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ryan]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Rassoli]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Fri, 17 Jul 2020 23:54:34 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5f112d927597cb1ae1bec06f" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    white-bold'
+  data-section-id="5f1221396de6b21f32e4dbd3"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 40,
+  &quot;sectionTheme&quot; : &quot;white-bold&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+     style="min-height: 10vh;" 
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5f1221396de6b21f32e4dbd3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a66f3288e49b34d16522"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Submit your photos here.</h2><p style="text-align:center;white-space:pre-wrap;" class="">Please select the “share“ button below and select the photos you would like to send us.</p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-b0b58b9af80f22aed5ba"><div class="sqs-block-content">
+
+
+
+
+  <div data-animation-role="button" class="lightbox-handle-wrapper lightbox-handle-wrapper--align-center">
+    <button class="lightbox-handle sqs-system-button sqs-editable-button">
+      
+        Share
+      
+    </button>
+  </div>
+
+
+<div class="form-wrapper hidden"
+  
+>
+  <div class="form-title">Share</div>
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5f1221396de6b21f32e4dbd1"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://cello-sphere-jrap.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5f1221396de6b21f32e4dbd1',
+      collectionId: '5f112d927597cb1ae1bec070',
+      objectName: 'page-section-5f1221396de6b21f32e4dbd3'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1595023104486_37469" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1595023104486_37469-field">
+              Upload Files
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                <div class="description">FileField;MaxSize=5120;Multiple;addText=Add_your_Files;</div>
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1595023104486_37469-field"
+                    placeholder=".jpg, .jpeg, .png, .gif, .txt, .heif, .HEIF"
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div 
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
